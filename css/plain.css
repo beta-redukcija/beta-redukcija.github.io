@@ -1,17 +1,15 @@
 img.logo {
-    width: 40%;
-    height: 40%;
-}
-
-@font-face {
-    font-family: Gentium Basic;
-    src: url(http://fonts.googleapis.com/css?family=Gentium+Basic);
+    width: 35%;
+    height: 35%;
 }
 
 body {
     background-image: url("../img/pat.png");
     font-family: Gentium Basic, Helvetica, serif !important;
+    font-size: 2em !important;
 }
+
+h1, h2 { font-size: 2em !important; }
 
 .page-header {
     border-bottom: 1px solid #C6C9CC !important;
